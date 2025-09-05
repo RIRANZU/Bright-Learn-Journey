@@ -1,0 +1,45 @@
+﻿ Number of Transactions by Product Category,,, ,Number of Transactions by day in the week,,,,Number of Transactions by Month,,,,Revenue by Month,,,Revenue by Product Category,
+Row Labels,No_oF_Transactions,,,Row Labels,No_oF_Transactions,,,Row Labels,No_oF_Transactions,,,Row Labels,Revenue,,Row Labels,Revenue
+Bakery,22796,,,Sun,21096,,,Jan,17314,,,Jan,81677.74,,Bakery,82315.64
+Branded,747,,,Mon,21643,,,Feb,16359,,,Feb,76145.19,,Branded,13607
+Coffee,58416,,,Tue,21202,,,Mar,21229,,,Mar,98834.68,,Coffee,269952.45
+Coffee beans,1753,,,Wed,21310,,,Apr,25335,,,Apr,118941.08,,Coffee beans,40085.25
+Drinking Chocolate,11468,,,Thu,21654,,,May,33527,,,May,156727.76,,Drinking Chocolate,72416
+Flavours,6790,,,Fri,21701,,,Jun,35352,,,Jun,166485.88,,Flavours,8408.8
+Loose Tea,1210,,,Sat,20510,,,Grand Total,149116,,,Grand Total,698812.33,,Loose Tea,11213.6
+Packaged Chocolate,487,,,Grand Total,149116,,,,,,,,,,Packaged Chocolate,4407.64
+Tea,45449,,,,,,,,,,,,,,Tea,196405.95
+Grand Total,149116,,,,,,,,,,,,,,Grand Total,698812.33
+,,,,,,,,,,,,,,,,
+ Number of Transactions by Day and  Time Bucket,,,,Revenue by Product type,,,,Revenue by Store location,,,CARDS,,,,,
+Row Labels,No_oF_Transactions,,,Row Labels,Revenue,,,Row Labels,Revenue,,Transactions,149116,,,,
+Afternoon,44427,,,Barista Espresso,91406.2,,,Astoria,232243.91,,Revenue,"R698,812",,,,
+Sun,6276,,,Biscotti,19793.53,,,Hell's Kitchen,236511.17,,,,,,,
+Mon,6625,,,Black tea,2711.85,,,Lower Manhattan,230057.25,,,,,,,
+Tue,5983,,,Brewed Black tea,47932,,,Grand Total,698812.33,,,,,,,
+Wed,6336,,,Brewed Chai tea,77081.95,,,,,,,,,,,
+Thu,6694,,,Brewed Green tea,23852.5,,,,,,,,,,,
+Fri,6247,,,Brewed herbal tea,47539.5,,,,,,,,,,,
+Sat,6266,,,Chai tea,4301.25,,,,,,,,,,,
+Evening,22938,,,Clothing,6163,,,,,,,,,,,
+Sun,3225,,,Drinking Chocolate,2728.04,,,,,,,,,,,
+Mon,3299,,,Drip coffee,31984,,,,,,,,,,,
+Tue,3201,,,Espresso Beans,5560.25,,,,,,,,,,,
+Wed,3272,,,Gourmet Beans,6798,,,,,,,,,,,
+Thu,3466,,,Gourmet brewed coffee,70034.6,,,,,,,,,,,
+Fri,3341,,,Green beans,1340,,,,,,,,,,,
+Sat,3134,,,Green tea,1470.75,,,,,,,,,,,
+Morning,81751,,,Herbal tea,2729.75,,,,,,,,,,,
+Sun,11595,,,Hot chocolate,72416,,,,,,,,,,,
+Mon,11719,,,House blend Beans,3294,,,,,,,,,,,
+Tue,12018,,,Housewares,7444,,,,,,,,,,,
+Wed,11702,,,Organic Beans,8509.5,,,,,,,,,,,
+Thu,11494,,,Organic brewed coffee,37746.5,,,,,,,,,,,
+Fri,12113,,,Organic Chocolate,1679.6,,,,,,,,,,,
+Sat,11110,,,Pastry,25655.99,,,,,,,,,,,
+Grand Total,149116,,,Premium Beans,14583.5,,,,,,,,,,,
+,,,,Premium brewed coffee,38781.15,,,,,,,,,,,
+,,,,Regular syrup,6084.8,,,,,,,,,,,
+,,,,Scone,36866.12,,,,,,,,,,,
+,,,,Sugar free syrup,2324,,,,,,,,,,,
+,,,,Grand Total,698812.33,,,,,,,,,,,
